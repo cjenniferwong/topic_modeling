@@ -2,3 +2,4 @@
 .gitignore
 WIP*
 *.py
+*.csv
